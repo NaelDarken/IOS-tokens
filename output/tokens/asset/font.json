@@ -1,0 +1,46 @@
+{
+  "asset": {
+    "font": {
+      "gothamLight": {
+        "name": { "value": "gotham-light" },
+        "woff": { "value": "../../assets/fonts/gotham-light.woff" },
+        "woff2": { "value": "../../assets/fonts/gotham-light.woff2" }
+      },
+      "interBold": {
+        "name": { "value": "inter-bold" },
+        "woff": { "value": "../../assets/fonts/inter-bold.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-bold.woff2" }
+      },
+      "interRegular": {
+        "name": { "value": "inter-regular" },
+        "woff": { "value": "../../assets/fonts/inter-regular.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-regular.woff2" }
+      },
+      "gothamBold": {
+        "name": { "value": "gotham-bold" },
+        "woff": { "value": "../../assets/fonts/gotham-bold.woff" },
+        "woff2": { "value": "../../assets/fonts/gotham-bold.woff2" }
+      },
+      "gothamBook": {
+        "name": { "value": "gotham-book" },
+        "woff": { "value": "../../assets/fonts/gotham-book.woff" },
+        "woff2": { "value": "../../assets/fonts/gotham-book.woff2" }
+      },
+      "interMedium": {
+        "name": { "value": "inter-medium" },
+        "woff": { "value": "../../assets/fonts/inter-medium.woff" },
+        "woff2": { "value": "../../assets/fonts/inter-medium.woff2" }
+      },
+      "cairoRegular": {
+        "name": { "value": "cairo-regular" },
+        "woff": { "value": "../../assets/fonts/cairo-regular.woff" },
+        "woff2": { "value": "../../assets/fonts/cairo-regular.woff2" }
+      },
+      "gothamMedium": {
+        "name": { "value": "gotham-medium" },
+        "woff": { "value": "../../assets/fonts/gotham-medium.woff" },
+        "woff2": { "value": "../../assets/fonts/gotham-medium.woff2" }
+      }
+    }
+  }
+}
